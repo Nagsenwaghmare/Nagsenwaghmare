@@ -25,7 +25,7 @@
   <img src="http://sachinchopra.codes/DeviCon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
   <img src="http://sachinchopra.codes/DeviCon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
   <img src="http://sachinchopra.codes/DeviCon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="http://sachinchopra.codes/DeviCon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></p><p align="center"><br/><br/> <img src="https://github-readme-stats.vercel.app/api?username=sachin10101998&show_icons=true" alt="sachin10101998" /> </p>
+  </p>
 <br/><br/>
 <p align="center">
 <a href="https://twitter.com/sachin10101998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sachin10101998" height="20" width="20" /></a>
