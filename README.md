@@ -32,8 +32,8 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sachin10101998" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/nagsen-waghmare-b97202191/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sachin10101998" height="20" width="20" /></a>
-<a href="https://fb.com/sachin.mathers.7" target="blank">
+<a href="https://www.facebook.com/nagsen.waghmare.731" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sachin.mathers.7" height="20" width="20" /></a>
-<a href="https://instagram.com/superachnural" target="blank">
+<a href="https://www.instagram.com/waghmare_nagsen/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="superachnural" height="20" width="20" /></a>
 </p>
