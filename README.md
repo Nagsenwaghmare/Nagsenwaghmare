@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nagsen Waghmare</h1>
 <h3 align="left">A passionate Front End Web Developer.</h3>
 
-<li align="left"> 🔭 I’m currently working on <a href="https://github.com/kartikeya-123/academic-council">Academic-counsil</a></li>
+<li align="left"> 🔭 I’m currently working on <a href="https://github.com/Nagsenwaghmare/Ashvamedha.github.io">Ashvamedha Website</a></li>
 
 <li align="left"> 👯 I’m looking to collaborate on <a href="https://github.com/CleverProgrammers/react-covid-tracker">React COVID19 Tracker</a></li>
 
