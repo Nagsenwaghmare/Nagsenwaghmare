@@ -3,7 +3,7 @@
 
 <li align="left"> 🔭 I’m currently working on <a href="https://github.com/webd-iitbbs/quora">QuoraIITBBS Website</a></li>
 
-<li align="left"> 👯 I’m looking to collaborate on <a href="https://github.com/CleverProgrammers/react-covid-tracker">React COVID19 Tracker</a></li>
+<li align="left"> 👯 I’m looking to collaborate on <a href="https://github.com/Nagsenwaghmare/Ashvamedha.github.io">Ashvamedha Website</a></li>
 
 <li align="left"> 👨‍💻 All of my projects are available at <a href="https://nagsenwaghmare.github.io/nagsen.github.io/">nagsen.github.io</a></li>
 
