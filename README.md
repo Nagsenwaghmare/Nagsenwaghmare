@@ -26,13 +26,11 @@
   <img src="http://sachinchopra.codes/DeviCon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
   <img src="http://sachinchopra.codes/DeviCon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </p>
-<br/><br/>
 
 ## &#x1f4c8; GitHub Stats
 ![](https://komarev.com/ghpvc/?username=Nagsenwaghmare)
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Nagsenwaghmare&show_icons=true&hide_border=true&theme=highcontrast" width="48%" >
-
 
 <p align="center">
 <a href="https://twitter.com/BaburaoNagsen" target="blank">
